@@ -7,3 +7,7 @@
 3. Scrapy
     * Web scraping using scrapy
     * Code for scraping pepperfry website
+4. Analysing MNIST dataset
+5. KNN
+    * Learning KNN algorithm
+    * Project - diabetes detection
