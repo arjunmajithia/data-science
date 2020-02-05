@@ -11,3 +11,6 @@
 5. KNN
     * Learning KNN algorithm
     * Project - diabetes detection
+6. Face Recognition
+    * Identifying faces using haar cascades
+    * Applying filters to images
