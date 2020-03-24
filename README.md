@@ -14,3 +14,7 @@
 6. Face Recognition
     * Identifying faces using haar cascades
     * Applying filters to images
+7. Linear Regression
+    * Basics of linear regression
+    * Multivariate linear regression
+    * Project - air quality prediction
