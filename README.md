@@ -22,3 +22,5 @@
 8. Logistic Regression
     * Basics
     * Challenge - chemical classifier
+9. Locally Weighted Regression
+    * Basics of lowess
