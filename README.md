@@ -10,11 +10,15 @@
 4. Analysing MNIST dataset
 5. KNN
     * Learning KNN algorithm
-    * Project - diabetes detection
+    * Challenge - diabetes detection
 6. Face Recognition
     * Identifying faces using haar cascades
     * Applying filters to images
 7. Linear Regression
     * Basics of linear regression
     * Multivariate linear regression
-    * Project - air quality prediction
+    * Challenge - air quality prediction
+    * Challenge - hardwork pays off
+8. Logistic Regression
+    * Basics
+    * Challenge - chemical classifier
