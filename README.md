@@ -24,3 +24,6 @@
     * Challenge - chemical classifier
 9. Locally Weighted Regression
     * Basics of lowess
+10. Movie Data Visualisation
+11. Natural Language Preprocessing
+    * Understanding nltk library
