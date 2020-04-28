@@ -27,3 +27,8 @@
 10. Movie Data Visualisation
 11. Natural Language Preprocessing
     * Understanding nltk library
+12. Bayes Theorem
+    * Understanding bayes theorem
+    * Naive bayes classifier - Multinomial NB (discrete features)
+                             - Gaussian NB (Continuous value features)
+    * Challenge - movie sentiment analysis
