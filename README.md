@@ -32,3 +32,6 @@
     * Naive bayes classifier - Multinomial NB (discrete features)
                              - Gaussian NB (Continuous value features)
     * Challenge - movie sentiment analysis
+13. Decision Tree
+    * Implementing decision tree from scratch
+    * Challenge - titanic survivor
