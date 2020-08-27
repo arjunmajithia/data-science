@@ -35,3 +35,7 @@
 13. Decision Tree
     * Implementing decision tree from scratch
     * Challenge - titanic survivor
+14. SVM
+    * Understanding basics of svm
+    * Applying grid-search to select best kernel and hyperparameters
+    * Challenge - pokemon classification
