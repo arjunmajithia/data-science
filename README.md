@@ -39,3 +39,7 @@
     * Understanding basics of svm
     * Applying grid-search to select best kernel and hyperparameters
     * Challenge - pokemon classification
+15. K-Means Clustering
+    * Implementing K-Means algorithm
+    * Understanding difference between k-means and dbscan algorithm
+    * Challenge - extracting dominant colors
